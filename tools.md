@@ -5,6 +5,12 @@
 - [Data Engineering Tools](#data-engineering-tools)
   - [Table of Contents](#table-of-contents)
     - [Programming Languages](#programming-languages)
+      - [Python](#python)
+        - [Python version and package manager](#python-version-and-package-manager)
+        - [Data Validation](#data-validation)
+        - [Document Generator](#document-generator)
+        - [Doc-string Generator](#doc-string-generator)
+        - [Test and Coverage Tools](#test-and-coverage-tools)
     - [Operating System](#operating-system)
     - [Networking](#networking)
     - [Basic Authentication and Authorization](#basic-authentication-and-authorization)
@@ -55,6 +61,33 @@
       - [Tracing](#tracing)
 
 ### Programming Languages
+
+#### Python
+
+##### Python version and package manager
+
+- [UV](https://github.com/astral-sh/uv) (recommended)
+- [Poetry](https://python-poetry.org/)
+
+##### Data Validation
+
+- [Pydantic](https://github.com/pydantic/pydantic)
+
+##### Document Generator
+
+- [Sphinx](https://github.com/sphinx-doc/sphinx)
+- [Mkdocs](https://www.mkdocs.org/)
+
+##### Doc-string Generator
+
+- [autoDocstring in VSCode](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring)
+
+##### Test and Coverage Tools
+
+- [Pytest](https://github.com/pytest-dev/pytest)
+- [tox](https://github.com/tox-dev/tox)
+- [nox](https://github.com/wntrblm/nox)
+- [Lettuce](https://github.com/gabrielfalcao/lettuce)
 
 ### Operating System
 
