@@ -5,6 +5,16 @@
 - [Data Engineering Tools](#data-engineering-tools)
   - [Table of Contents](#table-of-contents)
     - [Programming Languages](#programming-languages)
+      - [Python](#python)
+        - [Python version and package manager](#python-version-and-package-manager)
+        - [Type Checker](#type-checker)
+        - [Linter and Code Formatter](#linter-and-code-formatter)
+        - [Data Validation](#data-validation)
+        - [Document Generator](#document-generator)
+        - [Doc-string Generator](#doc-string-generator)
+        - [Test and Coverage Tools](#test-and-coverage-tools)
+        - [Software Version Manager](#software-version-manager)
+        - [Changelog Generator](#changelog-generator)
     - [Operating System](#operating-system)
     - [Networking](#networking)
     - [Basic Authentication and Authorization](#basic-authentication-and-authorization)
@@ -55,6 +65,55 @@
       - [Tracing](#tracing)
 
 ### Programming Languages
+
+#### Python
+
+##### Python version and package manager
+
+- [UV](https://github.com/astral-sh/uv) (recommended)
+- [Poetry](https://python-poetry.org/)
+
+##### Type Checker
+
+- [Mypy](https://github.com/python/mypy)
+
+##### Linter and Code Formatter
+
+- [Ruff](https://github.com/astral-sh/ruff)
+- [Black](https://github.com/psf/black)
+- [Flake8](https://github.com/PyCQA/flake8)
+
+##### Data Validation
+
+- [Pydantic](https://github.com/pydantic/pydantic)
+
+##### Document Generator
+
+- [Sphinx](https://github.com/sphinx-doc/sphinx)
+- [Mkdocs](https://www.mkdocs.org/)
+
+##### Doc-string Generator
+
+- [autoDocstring in VSCode](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring)
+
+##### Test and Coverage Tools
+
+- [Pytest](https://github.com/pytest-dev/pytest)
+- [tox](https://github.com/tox-dev/tox)
+- [nox](https://github.com/wntrblm/nox)
+- [Lettuce](https://github.com/gabrielfalcao/lettuce)
+
+##### Software Version Manager
+
+- [semantic-release](https://github.com/semantic-release/semantic-release/)
+- [bump-my-version](https://github.com/callowayproject/bump-my-version)
+- [bump2version](https://github.com/c4urself/bump2version)
+- [python-semantic-release](https://github.com/python-semantic-release/python-semantic-release)
+
+##### Changelog Generator
+
+- [git-cliff](https://github.com/orhun/git-cliff)
+- [conventional-changelog](https://github.com/conventional-changelog/conventional-changelog)
 
 ### Operating System
 
