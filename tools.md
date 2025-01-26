@@ -165,6 +165,14 @@
 
 ## Cache
 
+- [Redis](https://redis.io/) - An open-source, in-memory data structure store that can be used as a database, cache, and message broker.
+- [Memcached](https://memcached.org/) - A high-performance, distributed memory object caching system.
+- [Varnish](https://varnish-cache.org/) - An open-source web application accelerator that is used to cache web content.
+- [Nginx](https://www.nginx.com/) - A web server that can also be used as a reverse proxy, load balancer, mail proxy, and HTTP cache.
+- [Squid](http://www.squid-cache.org/) - A caching proxy for the Web supporting HTTP, HTTPS, FTP, and more.
+- [Apache Ignite](https://ignite.apache.org/) - An open-source distributed database, caching, and processing platform designed to store and compute on large volumes of data across a cluster of nodes.
+- [Hazelcast](https://hazelcast.com/) - An open-source in-memory data grid that is used to distribute data across a cluster of nodes.
+
 ## Testing
 
 ## Version Control System
