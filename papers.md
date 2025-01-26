@@ -6,12 +6,16 @@
   - [Presto: A Decade of SQL Analytics at Meta](https://research.facebook.com/file/965459034890003/Presto--A-Decade-of-SQL-Analytics-at-Meta.pdf)
 - 🏆 2021:
   - [Citus: Distributed PostgreSQL for Data-Intensive Applications](https://dl.acm.org/doi/pdf/10.1145/3448016.3457551)
+  - [Milvus: A Purpose-Built Vector Data Management System](https://dl.acm.org/doi/pdf/10.1145/3448016.3457550)
+  - [RocksDB: Evolution of Development Priorities in a Key-value Store Serving Large-scale Applications](https://dl.acm.org/doi/pdf/10.1145/3483840)
 - 🏆 2020:
   - [Delta Lake: High-Performance ACID Table Storage over Cloud Object Stores](https://vldb.org/pvldb/vol13/p3411-armbrust.pdf)
 - 🏆 2019:
   - [Procella: unifying serving and analytical data at YouTube](https://research.google/pubs/procella-unifying-serving-and-analytical-data-at-youtube/)
 - 🏆 2016:
   - [The Snowflake Elastic Data Warehouse](https://dl.acm.org/doi/pdf/10.1145/2882903.2903741)
+- 🏆 2015:
+    - [The dataflow model: a practical approach to balancing correctness, latency, and cost in massive-scale, unbounded, out-of-order data processing](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43864.pdf)
 - 🏆 2012:
   - [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](https://www.usenix.org/system/files/conference/nsdi12/nsdi12-final138.pdf)
   - [Spanner: Google’s Globally-Distributed Database](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/39932.pdf)
@@ -20,6 +24,7 @@
 - 🏆 2010:
   - [Spark: Cluster Computing with Working Sets](https://www.usenix.org/system/files/conference/nsdi10/nsdi10-final138.pdf)
   - [Dremel: Interactive Analysis of Web-Scale Datasets](https://vldb.org/pvldb/vol13/p3461-melnik.pdf)
+  - [The Hadoop Distributed File System](https://pages.cs.wisc.edu/~akella/CS838/F15/838-CloudPapers/hdfs.pdf)
 - 🏆 2007:
   - [Dynamo: Amazon’s Highly Available Key-value Store](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
 - 🏆 2006:
