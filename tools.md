@@ -192,11 +192,23 @@
 
 ##### Vector
 
+- [Milvus](https://github.com/milvus-io/milvus) - A high-performance, cloud-native vector database built for scalable vector ANN search
+- [Qdrant](https://github.com/qdrant/qdrant) - A vector search engine that is designed for similarity search and clustering.
+- [Weaviate](https://github.com/weaviate/weaviate) - An open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database.
+- [pgvector](https://github.com/pgvector/pgvector) - A PostgreSQL extension that provides vector search capabilities.
+
 ##### Graph
 
 - [ArangoDB](https://www.arangodb.com/) - An open-source, distributed multi-model database that supports key/value, document, and graph data models.
+- [Neo4j](https://neo4j.com/) - An open-source graph database that is optimized for storing and querying graphs.
+- [JanusGraph](https://janusgraph.org/) - A highly scalable graph database optimized for storing and querying large graphs with billions of vertices and edges distributed across a multi-machine cluster.
+- [OrientDB](https://orientdb.com/) - An open-source, distributed graph database that is optimized for storing and querying graphs.
+- [Dgraph](https://dgraph.io/) - A horizontally scalable and distributed GraphQL database with a graph backend which provides ACID transactions, consistent replication, and linearizable reads.
 
 ##### NewSQL
+
+- [CockroachDB](https://www.cockroachlabs.com/) - An open-source, distributed SQL database that is ACID compliant and horizontally scalable.
+- [TiDB](https://pingcap.com/) - An open-source, distributed SQL database that supports Hybrid Transactional and Analytical Processing (HTAP).
 
 ### Data Integration
 
