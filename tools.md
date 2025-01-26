@@ -132,6 +132,10 @@
 
 ### Version Control Hosting
 
+- [GitHub](https://github.com) - A web-based platform for git version control and collaboration.
+- [GitLab](https://gitlab.com) - A web-based platform for git and DevOps lifecycle tooling.
+- [Bitbucket](https://bitbucket.org) - A web-based platform for Git and Mercurial version control.
+
 ### Databases
 
 #### Relational
