@@ -235,6 +235,24 @@
 
 #### Logging
 
+- [Fluentd](https://www.fluentd.org/) - An open-source data collector for unified logging layer.
+- [Fluent Bit](https://fluentbit.io/) - A fast and lightweight log processor and forwarder for Linux, Windows, and OSX.
+- [Logstash](https://www.elastic.co/logstash) - An open-source server-side data processing pipeline that ingests data from multiple sources simultaneously.
+- [Filebeat](https://www.elastic.co/beats/filebeat) - A lightweight shipper for forwarding and centralizing log data.
+- [Logrotate](https://github.com/logrotate/logrotate) - A simple utility for managing log files.
+
 #### Monitoring
 
+- [Prometheus](https://prometheus.io/) - An open-source monitoring and alerting toolkit based on a time-series database.
+- [Grafana](https://grafana.com/) - An open-source analytics and monitoring platform that allows you to query, visualize, alert on, and understand your metrics.
+- [Sentry](https://sentry.io/) - An open-source error tracking software that helps developers monitor and fix crashes in real-time.
+- [Netdata](https://www.netdata.cloud/) - An open-source real-time performance and health monitoring tool for systems and applications.
+- [Zabbix](https://www.zabbix.com/) - An open-source monitoring software tool for diverse IT components, including networks, servers, virtual machines, and cloud services.
+- [Nagios](https://www.nagios.org/) - An open-source computer system monitoring, network monitoring, and infrastructure monitoring software application.
+- [Icinga](https://icinga.com/) - An open-source monitoring software tool that monitors availability and performance, gives you simple access to relevant data, and raises alerts to keep you in the loop.
+
 #### Tracing
+
+- [Jaeger](https://www.jaegertracing.io/) - An open-source end-to-end distributed tracing system.
+- [Zipkin](https://zipkin.io/) - An open-source distributed tracing system.
+- [OpenTelemetry](https://opentelemetry.io/) - An observability framework for cloud-native software.
