@@ -127,6 +127,9 @@
 
 ### Version Control System
 
+- [Git](https://git-scm.com/) - A distributed version control system that is widely used for source code management.
+- [Mercurial](https://www.mercurial-scm.org/) - A distributed version control system that is easy to learn.
+
 ### Version Control Hosting
 
 ### Databases
