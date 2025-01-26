@@ -166,10 +166,17 @@
 - [RethinkDB](https://rethinkdb.com/) - An open-source, distributed document-oriented database that makes it easy to build and scale real-time web applications.
 - [ArangoDB](https://www.arangodb.com/) - An open-source, distributed multi-model database that supports key/value, document, and graph data models.
 - [RavenDB](https://github.com/ravendb/ravendb) - A NoSQL document database that is fully transactional (ACID) across your database.
+- [Elasticsearch](https://www.elastic.co/elasticsearch/) - A distributed, RESTful search and analytics engine that is based on Apache Lucene.
 
 ##### Key-Value
 
+- [Redis](https://redis.io/) - An open-source, in-memory data structure store that can be used as a database, cache, and message broker.
+- [KeyDB](https://keydb.dev/) - A high-performance fork of Redis with multithreading support.
+- [TiKV](https://tikv.org/) - A distributed transactional key-value database that provides transactional guarantees.
+- [etcd](https://etcd.io/) - A distributed key-value store that provides a reliable way to store data across a cluster of machines.
 - [ArangoDB](https://www.arangodb.com/) - An open-source, distributed multi-model database that supports key/value, document, and graph data models.
+- [Valkey](https://github.com/valkey-io/valkey) - A distributed key-value store that is designed for high availability and scalability, forked from Redis.
+- [Dragonfly](https://github.com/dragonflydb/dragonfly) - An in-memory data store built for modern application workloads and fully compatible with Redis and Memcached APIs.
 
 ##### Time-series
 
