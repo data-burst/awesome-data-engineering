@@ -371,11 +371,26 @@
 
 ### Data Quality
 
+- [Great Expectations](https://greatexpectations.io/) - An open-source library that helps you to maintain data quality by defining, documenting, and testing data expectations.
+- [Soda](https://github.com/sodadata/soda-core) - An open-source data quality monitoring and testing tool.
+
 ### Data Security
+
+- [Apache Ranger](https://ranger.apache.org/) - A framework to enable, monitor, and manage data security across the Hadoop platform.
+- [Apache Knox](https://knox.apache.org/) - A gateway for providing secure access to the data and processing resources of Hadoop clusters.
 
 ### Data Lineage
 
+- [DataHub](https://datahubproject.io/) - An open-source metadata search and discovery tool that is used to manage data assets.
+- [OpenMetadata](https://github.com/open-metadata/OpenMetadata) - A unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.
+- [Amundsen](https://www.amundsen.io/) - A metadata driven application for improving the productivity of data analysts, data scientists, and engineers when interacting with data.
+- [Apache Atlas](https://atlas.apache.org/) - A scalable and extensible set of core foundational governance services that enables enterprises to effectively and efficiently meet their compliance requirements within Hadoop and allows integration with the complete data ecosystem.
+
 ### Data Visualization
+
+- [Metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company.
+- [Superset](https://github.com/apache/superset) - A modern data exploration and data visualization platform that can replace or augment proprietary business intelligence tools for many teams.
+- [Redash](https://github.com/getredash/redash) - Connect to any data source, easily visualize, dashboard and share your data.
 
 ## Containerization
 
