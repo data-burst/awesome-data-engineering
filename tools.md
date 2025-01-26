@@ -191,6 +191,7 @@
 - [Robot Framework](https://robotframework.org/) - A generic test automation framework for acceptance testing and acceptance test-driven development (ATDD).
 
 ### Load Testing
+
 - [Locust](https://github.com/locustio/locust) - An open-source load testing tool that is used to test the performance of web applications. Write scalable load tests in plain Python.
 - [K6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript. Tests as code and configurable load generation.
 - [JMeter](https://github.com/apache/jmeter) - Load testing tool for analyzing and measuring the performance of a variety of services.
@@ -198,6 +199,7 @@
 - [Artillery](https://github.com/artilleryio/artillery) - Everything you need for production-grade load tests. Serverless & distributed. Load test HTTP APIs, GraphQL, WebSocket, and more.
 
 ### A/B Testing
+
 - [GrowthBook](https://github.com/growthbook/growthbook) - Feature Flagging and A/B Testing Platform.
 - [Unleash](https://github.com/Unleash/unleash) - An open-source feature toggle/flag service.
 - [Flagsmith](https://github.com/Flagsmith/flagsmith) - An open-source, fully supported, Feature Flag and Remote Config service.
@@ -330,9 +332,22 @@
 
 ### Batch
 
-### Hybrid
+- [dbt](https://www.getdbt.com/) - A command-line tool that enables data analysts and engineers to transform data in their warehouse more effectively.
+- [Apache Arrow](https://arrow.apache.org/) - A cross-language development platform for in-memory data.
 
 ### Stream
+
+- [Apache Kafka](https://kafka.apache.org/) - A distributed event streaming platform that is used for building real-time data pipelines and streaming applications.
+- [Apache Pulsar](https://pulsar.apache.org/) - A distributed pub-sub messaging platform that is used for building real-time data pipelines and streaming applications.
+- [Apache Storm](https://storm.apache.org/) - A free and open-source distributed real-time computation system.
+- [Apache Samza](https://samza.apache.org/) - A distributed stream processing framework.
+
+### Hybrid
+
+- [Apache Spark](https://spark.apache.org/) - An open-source, distributed computing system that is used for big data processing.
+- [Apache Nifi](https://nifi.apache.org/) - An open-source data integration tool that is used to automate the flow of data between systems.
+- [Apache Flink](https://flink.apache.org/) - An open-source stream processing framework that is used to build real-time applications.
+- [Apache Beam](https://beam.apache.org/) - An open-source, unified model for defining both batch and streaming data-parallel processing pipelines.
 
 ## Pipeline Orchestration
 
