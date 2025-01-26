@@ -153,6 +153,11 @@
 
 ##### Columnar
 
+- [Cassandra](https://cassandra.apache.org/) - A distributed NoSQL database management system designed to handle large amounts of data across many commodity servers.
+- [HBase](https://hbase.apache.org/) - An open-source, distributed, versioned, non-relational database modeled after Google's Bigtable.
+- [ClickHouse](https://clickhouse.tech/) - An open-source column-oriented database management system that allows generating analytical data reports in real-time.
+- [Apache Druid](https://druid.apache.org/) - A high-performance, column-oriented, distributed data store that is optimized for OLAP queries on event data.
+
 ##### Document Based
 
 ##### Key-Value
