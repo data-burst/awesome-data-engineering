@@ -68,50 +68,50 @@
 
 #### Python version and package manager
 
-- [UV](https://github.com/astral-sh/uv) (recommended)
-- [Poetry](https://python-poetry.org/)
+- [UV](https://github.com/astral-sh/uv) (recommended) - A fast and extensible Python version manager.
+- [Poetry](https://python-poetry.org/) - A tool for dependency management and packaging in Python.
 
 #### Type Checker
 
-- [Mypy](https://github.com/python/mypy)
+- [Mypy](https://github.com/python/mypy) - A static type checker for Python.
 
 #### Linter and Code Formatter
 
-- [Ruff](https://github.com/astral-sh/ruff)
-- [Black](https://github.com/psf/black)
-- [Flake8](https://github.com/PyCQA/flake8)
+- [Ruff](https://github.com/astral-sh/ruff) - A fast and extensible Python linter and code formatter implemented in rust.
+- [Black](https://github.com/psf/black) - The uncompromising Python code formatter.
+- [Flake8](https://github.com/PyCQA/flake8) - A tool that enforces PEP 8 style guide.
 
 #### Data Validation
 
-- [Pydantic](https://github.com/pydantic/pydantic)
+- [Pydantic](https://github.com/pydantic/pydantic) - Data validation and settings management using Python type hints.
 
 #### Document Generator
 
-- [Sphinx](https://github.com/sphinx-doc/sphinx)
-- [Mkdocs](https://www.mkdocs.org/)
+- [Sphinx](https://github.com/sphinx-doc/sphinx) - A tool that makes it easy to create intelligent and beautiful documentation.
+- [Mkdocs](https://www.mkdocs.org/) - A fast, simple, and downright gorgeous static site generator that's geared towards building project documentation.
 
 #### Doc-string Generator
 
-- [autoDocstring in VSCode](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring)
+- [autoDocstring in VSCode](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring) - A Visual Studio Code extension that generates docstrings for Python functions.
 
 #### Test and Coverage Tools
 
-- [Pytest](https://github.com/pytest-dev/pytest)
-- [tox](https://github.com/tox-dev/tox)
-- [nox](https://github.com/wntrblm/nox)
-- [Lettuce](https://github.com/gabrielfalcao/lettuce)
+- [Pytest](https://github.com/pytest-dev/pytest) - A testing framework that makes it easy to write simple and scalable tests.
+- [tox](https://github.com/tox-dev/tox) - A generic virtualenv management and test command line tool.
+- [nox](https://github.com/wntrblm/nox) - A flexible test automation tool that allows you to run tests in different environments.
+- [Lettuce](https://github.com/gabrielfalcao/lettuce) - A BDD tool that allows you to write tests in plain English.
 
 #### Software Version Manager
 
-- [semantic-release](https://github.com/semantic-release/semantic-release/)
-- [bump-my-version](https://github.com/callowayproject/bump-my-version)
-- [bump2version](https://github.com/c4urself/bump2version)
-- [python-semantic-release](https://github.com/python-semantic-release/python-semantic-release)
+- [semantic-release](https://github.com/semantic-release/semantic-release/) - Fully automated version management and package publishing.
+- [bump-my-version](https://github.com/callowayproject/bump-my-version) - A simple CLI tool to bump the version of your project.
+- [bump2version](https://github.com/c4urself/bump2version) - A tool to simplify releasing software by updating all version strings in your source code by the correct increment.
+- [python-semantic-release](https://github.com/python-semantic-release/python-semantic-release) - Fully automated version management and package publishing for Python projects.
 
 #### Changelog Generator
 
-- [git-cliff](https://github.com/orhun/git-cliff)
-- [conventional-changelog](https://github.com/conventional-changelog/conventional-changelog)
+- [git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications.
+- [conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - A tool that generates a changelog from git metadata.
 
 ## Operating System
 
