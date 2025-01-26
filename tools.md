@@ -217,6 +217,15 @@
 
 ### CICD
 
+- [Jenkins](https://www.jenkins.io/) - An open-source automation server that enables developers around the world to reliably build, test, and deploy their software.
+- [GitLab CI/CD](https://docs.gitlab.com/ee/ci/) - A continuous integration and continuous deployment tool built into GitLab.
+- [GitHub Actions](https://docs.github.com/en/actions) - A CI/CD service that allows you to automate your workflow directly in your GitHub repository.
+- [CircleCI](https://circleci.com/) - A modern continuous integration and continuous delivery (CI/CD) platform.
+- [Travis CI](https://www.travis-ci.com/) - A continuous integration service that is used to build and test software projects hosted at GitHub.
+- [Argo CD](https://argoproj.github.io/argo-cd/) - A declarative, GitOps continuous delivery tool for Kubernetes.
+- [Drone](https://www.drone.io/) - A continuous integration and continuous delivery platform built on container technology.
+- [GoCD](https://www.gocd.org/) - An open-source continuous delivery server that helps you automate and streamline the build-test-release cycle for worry-free, continuous delivery of your product.
+
 ### Infrastructure as Code
 
 #### Configuration Management
