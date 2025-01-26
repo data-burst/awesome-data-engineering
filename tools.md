@@ -140,6 +140,29 @@
 
 ## Web Frameworks and API Development
 
+### Python
+
+    - [FastAPI](https://fastapi.tiangolo.com/) - A modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.
+    - [Flask](https://flask.palletsprojects.com/) - A lightweight WSGI web application framework.
+    - [Django](https://www.djangoproject.com/) - A high-level Python web framework that encourages rapid development and clean, pragmatic design.
+    - [Falcon](https://falconframework.org/) - A high-performance Python framework for building cloud APIs and web app backends.
+
+### Go
+
+    - [Gin](https://gin-gonic.com/) - A web framework written in Go (Golang).
+    - [Echo](https://echo.labstack.com/) - A high-performance, minimalist Go web framework.
+    - [Fiber](https://gofiber.io/) - An Express.js inspired web framework built on top of Fasthttp, the fastest HTTP engine for Go.
+
+### Java
+
+    - [Spring Boot](https://spring.io/projects/spring-boot) - An open-source Java-based framework used to create stand-alone, production-grade Spring-based Applications.
+    - [Micronaut](https://micronaut.io/) - A modern, JVM-based, full-stack framework for building modular, easily testable microservice and serverless applications.
+
+### Rust
+
+    - [Rocket](https://rocket.rs/) - A web framework for Rust.
+    - [Actix](https://actix.rs/) - A powerful, pragmatic, and extremely fast web framework for Rust.
+
 ## Cache
 
 ## Testing
