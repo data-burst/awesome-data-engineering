@@ -157,6 +157,7 @@
 - [HBase](https://hbase.apache.org/) - An open-source, distributed, versioned, non-relational database modeled after Google's Bigtable.
 - [ClickHouse](https://clickhouse.tech/) - An open-source column-oriented database management system that allows generating analytical data reports in real-time.
 - [Apache Druid](https://druid.apache.org/) - A high-performance, column-oriented, distributed data store that is optimized for OLAP queries on event data.
+- [Pinot](https://pinot.apache.org/) - A real-time distributed OLAP datastore that is designed for high-performance and low-latency.
 
 ##### Document Based
 
@@ -179,6 +180,15 @@
 - [Dragonfly](https://github.com/dragonflydb/dragonfly) - An in-memory data store built for modern application workloads and fully compatible with Redis and Memcached APIs.
 
 ##### Time-series
+
+- [InfluxDB](https://github.com/influxdata/influxdb) - An open-source time-series database that is optimized for fast, high-availability storage and retrieval of time series data in fields such as operations monitoring, application metrics, Internet of Things sensor data, and real-time analytics.
+- [Prometheus](https://github.com/prometheus/prometheus) - An open-source monitoring and alerting toolkit based on a time-series database.
+- [TimescaleDB](https://github.com/timescale/timescaledb) - An open-source time-series database that is built on top of PostgreSQL.
+- [OpenTSDB](https://github.com/OpenTSDB/opentsdb) - A distributed, scalable time-series database that is built on top of HBase.
+- [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - A fast, cost-effective, and scalable time-series database that is compatible with Prometheus.
+- [QuestDB](https://github.com/questdb/questdb) - An open-source time-series database that is designed for high-performance and real-time analytics.
+- [KairosDB](https://github.com/kairosdb/kairosdb) - A distributed time-series database that is built on top of Cassandra.
+- [M3DB](https://github.com/m3db/m3) - A distributed time-series database that is designed for high availability and scalability.
 
 ##### Vector
 
@@ -299,6 +309,7 @@
 
 #### Monitoring
 
+- [VictoriaMetrics](https://victoriametrics.com/) - A fast, cost-effective, and scalable time-series database that is compatible with Prometheus.
 - [Prometheus](https://prometheus.io/) - An open-source monitoring and alerting toolkit based on a time-series database.
 - [Grafana](https://grafana.com/) - An open-source analytics and monitoring platform that allows you to query, visualize, alert on, and understand your metrics.
 - [Sentry](https://sentry.io/) - An open-source error tracking software that helps developers monitor and fix crashes in real-time.
