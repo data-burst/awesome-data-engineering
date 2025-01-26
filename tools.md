@@ -191,6 +191,15 @@
 
 ### Containerization
 
+
+- [Docker](https://www.docker.com/) - Most popular containerization platform that enables packaging the application and its dependencies into a container.
+- [Podman](https://podman.io/) - A daemonless container engine for developing, managing, and running OCI containers.
+- [CRI-O](https://cri-o.io/) - A lightweight container runtime for Kubernetes.
+- [runc](https://github.com/opencontainers/runc) - A CLI tool for spawning and running containers according to the OCI specification.
+- [containerd](https://containerd.io/) - An industry-standard container runtime with an emphasis on simplicity, robustness and portability.
+- [LXC](https://linuxcontainers.org/lxc/) - A userspace interface for the Linux kernel containment features.
+- [Buildah](https://buildah.io/) - A tool that facilitates building OCI images.
+
 ### Container Orchestration
 
 ### CICD
