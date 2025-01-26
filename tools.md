@@ -292,11 +292,16 @@
 
 ### ETL
 
+- [Apache Airflow](https://airflow.apache.org/) - A platform to programmatically author, schedule, and monitor workflows.
+- [Apache NiFi](https://nifi.apache.org/) - An open-source data integration tool that is used to automate the flow of data between systems.
+
 ### ELT
 
-### Reverse ETL
+- [Airbyte](https://airbyte.io/) - An open-source EL(T) platform that helps you replicate your data in your warehouses, lakes, and databases.
 
 ### CDC
+
+- [Debezium](https://debezium.io/) - An open-source distributed platform that captures row-level changes in databases so your applications can see and respond to those changes.
 
 ## Storage
 
