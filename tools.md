@@ -131,6 +131,13 @@
 
 ## Basic Authentication and Authorization
 
+- [OAuth2](https://oauth.net/2/) - An authorization framework that enables a third-party application to obtain limited access to an HTTP service.
+- [JWT](https://jwt.io/) - An open standard that defines a compact and self-contained way for securely transmitting information between parties as a JSON object.
+- [OAuth2 Proxy](https://oauth2-proxy.github.io/oauth2-proxy/) - A reverse proxy and static file server that provides authentication using Providers (Google, GitHub, and others) to validate accounts by email, domain, or group.
+- [Keycloak](https://www.keycloak.org/) - An open-source Identity and Access Management solution aimed at modern applications and services.
+- [Ory Kratos](https://www.ory.sh/kratos/docs/) - An identity and user management server that is designed to be easily integrated into existing systems.
+- [Ory Keto](https://www.ory.sh/keto/docs/) - A policy decision point that is designed to be easily integrated into existing systems.
+
 ## Web Frameworks and API Development
 
 ## Cache
