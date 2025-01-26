@@ -259,6 +259,14 @@
 
 ## Messaging and Streaming Platform
 
+- [Kafka](https://kafka.apache.org/) - A distributed event streaming platform that is used for building real-time data pipelines and streaming applications.
+- [Pulsar](https://pulsar.apache.org/) - A distributed pub-sub messaging platform that is used for building real-time data pipelines and streaming applications.
+- [RabbitMQ](https://www.rabbitmq.com/) - An open-source message broker that is used for building distributed systems.
+- [NATS](https://nats.io/) - An open-source, high-performance messaging system that is used for building distributed systems.
+- [MQTT](https://mqtt.org/) - A lightweight messaging protocol that is used for building IoT applications.
+- [Redis Streams](https://redis.io/topics/streams-intro) - A data structure that is used for building real-time data pipelines and streaming applications.
+- [ActiveMQ](https://activemq.apache.org/) - An open-source message broker that is used for building distributed systems.
+
 ## Data Governance
 
 ### Data Quality
