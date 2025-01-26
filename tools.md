@@ -140,6 +140,15 @@
 
 #### Relational
 
+- [PostgreSQL](https://www.postgresql.org/) - An open-source and powerful relational database management system.
+- [MySQL](https://www.mysql.com/) - One of the most famous open-source relational database management systems.
+- [CockroachDB](https://www.cockroachlabs.com/) - An open-source, distributed SQL database that is ACID compliant and horizontally scalable.
+- [TiDB](https://pingcap.com/) - An open-source, distributed SQL database that supports Hybrid Transactional and Analytical Processing (HTAP).
+- [SQLite](https://www.sqlite.org/) - A C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine.
+- [MariaDB](https://mariadb.org/) - An open-source relational database management system that is a fork of MySQL.
+- [Oracle Database](https://www.oracle.com/database/) - A multi-model database management system produced and marketed by Oracle Corporation.
+- [Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server) - A relational database management system developed by Microsoft.
+
 #### NoSQL
 
 ##### Columnar
