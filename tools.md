@@ -221,7 +221,15 @@
 
 #### Configuration Management
 
+- [Ansible](https://www.ansible.com/) - A simple IT automation tool that automates configuration management, application deployment, intra-service orchestration, and many other IT needs.
+- [Puppet](https://puppet.com/) - An open-source configuration management tool that automates the configuration and management of servers.
+- [Chef](https://www.chef.io/) - A configuration management tool that automates the building, deployment, and management of infrastructure.
+- [SaltStack](https://www.saltstack.com/) - A Python-based open-source configuration management and remote execution tool.
+
 #### Infrastructure Provisioning
+
+- [Terraform](https://www.terraform.io/) - An open-source infrastructure as code software tool that provides a consistent CLI workflow to manage hundreds of cloud services.
+- [Pulumi](https://www.pulumi.com/) - An open-source infrastructure as code software tool that allows you to define infrastructure using familiar languages.
 
 ### Observability
 
