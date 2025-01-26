@@ -121,6 +121,14 @@
 
 ## Networking
 
+- [OpenSSH](https://www.openssh.com/) - A free version of the SSH connectivity tools that technical users rely on.
+- [OpenVPN](https://openvpn.net/) - An open-source software application that implements virtual private network (VPN) techniques for creating secure point-to-point or site-to-site connections in routed or bridged configurations and remote access facilities.
+- [ufw](https://help.ubuntu.com/community/UFW) - A user-friendly way to create an IPv4 or IPv6 host-based firewall.
+- [iptables](https://netfilter.org/) - A user-space utility program that allows a system administrator to configure the IP packet filter rules of the Linux kernel firewall, implemented as different Netfilter modules.
+- [nftables](https://netfilter.org/projects/nftables/) - A subsystem of the Linux kernel providing filtering and classification of network packets/datagrams/frames.
+- [Nginx](https://www.nginx.com/) - A web server that can also be used as a reverse proxy, load balancer, mail proxy, and HTTP cache.
+- [HAProxy](https://www.haproxy.org/) - A free, very fast, and reliable solution offering high availability, load balancing, and proxying for TCP and HTTP-based applications.
+
 ## Basic Authentication and Authorization
 
 ## Web Frameworks and API Development
