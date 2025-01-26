@@ -122,7 +122,7 @@
 ### Web Frameworks and API Development
 
 ### Cache
-  
+
 ### Testing
 
 ### Version Control System
@@ -181,6 +181,13 @@
 - [Swift](https://github.com/openstack/swift) - A highly available, distributed, and scalable object storage system.
 
 ### Query Engine
+
+- [Presto](https://prestodb.io/) - An open-source distributed SQL query engine for running interactive analytic queries against data sources of all sizes.
+- [Spark SQL](https://spark.apache.org/sql/) - A module for working with structured data in Spark.]
+- [Trino](https://trino.io/) - A distributed SQL query engine for running interactive analytic queries against data sources of all sizes.
+- [Velox](https://velox-lib.io/) - A high-performance, distributed, in-memory data engine for analytics.
+- [Apache Drill](https://drill.apache.org/) - An open-source, low-latency SQL query engine for big data exploration.
+- [Apache Calcite](https://calcite.apache.org/) - A dynamic data management framework that provides tools to build SQL engines.
 
 ### Data Processing
 
