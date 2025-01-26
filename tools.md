@@ -175,6 +175,34 @@
 
 ## Testing
 
+### Integration Testing
+
+- [Postman](https://www.postman.com/) - A collaboration platform for API development that allows you to design, mock, document, and test APIs.
+- [Insomnia](https://insomnia.rest/) - A powerful REST API client that is used to design, debug, and test APIs.
+- [Pact](https://docs.pact.io/) - A contract testing tool that is used to ensure that services can communicate with each other.
+
+### Functional Testing
+
+- [Selenium](https://www.selenium.dev/) - A portable framework for testing web applications.
+- [Cypress](https://www.cypress.io/) - A fast, easy, and reliable testing for anything that runs in a browser.
+- [Playwright](https://playwright.dev/) - A Node.js library to automate the Chromium, WebKit, and Firefox browsers with a single API.
+- [TestCafe](https://devexpress.github.io/testcafe/) - A Node.js tool to automate end-to-end web testing.
+- [Karate](https://github.com/karatelabs/karate) - A unified framework for API test automation, mocks, performance testing, and even UI automation.
+- [Robot Framework](https://robotframework.org/) - A generic test automation framework for acceptance testing and acceptance test-driven development (ATDD).
+
+### Load Testing
+- [Locust](https://github.com/locustio/locust) - An open-source load testing tool that is used to test the performance of web applications. Write scalable load tests in plain Python.
+- [K6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript. Tests as code and configurable load generation.
+- [JMeter](https://github.com/apache/jmeter) - Load testing tool for analyzing and measuring the performance of a variety of services.
+- [Gatling](https://github.com/gatling/gatling) - Modern Load Testing as Code. Officially supports HTTP, WebSocket, Server-Sent-Events, JMS, gRPC and MQTT.
+- [Artillery](https://github.com/artilleryio/artillery) - Everything you need for production-grade load tests. Serverless & distributed. Load test HTTP APIs, GraphQL, WebSocket, and more.
+
+### A/B Testing
+- [GrowthBook](https://github.com/growthbook/growthbook) - Feature Flagging and A/B Testing Platform.
+- [Unleash](https://github.com/Unleash/unleash) - An open-source feature toggle/flag service.
+- [Flagsmith](https://github.com/Flagsmith/flagsmith) - An open-source, fully supported, Feature Flag and Remote Config service.
+- [Argo Rollouts](https://github.com/argoproj/argo-rollouts) - A Kubernetes controller and set of CRDs which provide advanced deployment capabilities such as blue-green, canary, canary analysis, experimentation, and progressive delivery features to Kubernetes.
+
 ## Version Control System
 
 - [Git](https://git-scm.com/) - A distributed version control system that is widely used for source code management.
