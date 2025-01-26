@@ -160,13 +160,24 @@
 
 ##### Document Based
 
+- [MongoDB](https://www.mongodb.com/) - A cross-platform document-oriented database program.
+- [Couchbase](https://www.couchbase.com/) - An open-source, distributed, multi-model NoSQL document-oriented database.
+- [CouchDB](https://couchdb.apache.org/) - An open-source database that uses JSON for documents, JavaScript for MapReduce indexes, and regular HTTP for its API.
+- [RethinkDB](https://rethinkdb.com/) - An open-source, distributed document-oriented database that makes it easy to build and scale real-time web applications.
+- [ArangoDB](https://www.arangodb.com/) - An open-source, distributed multi-model database that supports key/value, document, and graph data models.
+- [RavenDB](https://github.com/ravendb/ravendb) - A NoSQL document database that is fully transactional (ACID) across your database.
+
 ##### Key-Value
+
+- [ArangoDB](https://www.arangodb.com/) - An open-source, distributed multi-model database that supports key/value, document, and graph data models.
 
 ##### Time-series
 
 ##### Vector
 
 ##### Graph
+
+- [ArangoDB](https://www.arangodb.com/) - An open-source, distributed multi-model database that supports key/value, document, and graph data models.
 
 ##### NewSQL
 
