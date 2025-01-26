@@ -115,6 +115,10 @@
 
 ### Operating System
 
+- [Linux](https://www.kernel.org/) - Most popular unix-based open-source operating system that is widely used for servers and embedded systems.
+- [Windows](https://www.microsoft.com/en-us/windows) - A series of operating systems developed by Microsoft.
+- [macOS](https://www.apple.com/macos) - A series of unix-based operating systems developed by Apple Inc.
+
 ### Networking
 
 ### Basic Authentication and Authorization
