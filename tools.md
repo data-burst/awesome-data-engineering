@@ -300,6 +300,7 @@
 ### ELT
 
 - [Airbyte](https://airbyte.io/) - An open-source EL(T) platform that helps you replicate your data in your warehouses, lakes, and databases.
+- [dlt](https://github.com/dlt-hub/dlt) - A data pipeline framework that is designed to be simple, scalable, and extensible.
 
 ### CDC
 
@@ -350,6 +351,11 @@
 - [Apache Beam](https://beam.apache.org/) - An open-source, unified model for defining both batch and streaming data-parallel processing pipelines.
 
 ## Pipeline Orchestration
+
+- [Apache Airflow](https://airflow.apache.org/) - A platform to programmatically author, schedule, and monitor workflows.
+- [Prefect](https://www.prefect.io/) - A new workflow management system, designed for modern infrastructure and powered by the open-source Prefect Core workflow engine.
+- [Dagster](https://dagster.io/) - A data orchestrator for machine learning, analytics, and ETL.
+- [Mage](https://github.com/mage-ai/mage-ai) - A workflow orchestrator for machine learning and data science.
 
 ## Messaging and Streaming Platform
 
