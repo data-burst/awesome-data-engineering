@@ -62,87 +62,87 @@
   - [Monitoring](#monitoring)
   - [Tracing](#tracing)
 
-### Programming Languages
+## Programming Languages
 
-#### Python
+### Python
 
-##### Python version and package manager
+#### Python version and package manager
 
 - [UV](https://github.com/astral-sh/uv) (recommended)
 - [Poetry](https://python-poetry.org/)
 
-##### Type Checker
+#### Type Checker
 
 - [Mypy](https://github.com/python/mypy)
 
-##### Linter and Code Formatter
+#### Linter and Code Formatter
 
 - [Ruff](https://github.com/astral-sh/ruff)
 - [Black](https://github.com/psf/black)
 - [Flake8](https://github.com/PyCQA/flake8)
 
-##### Data Validation
+#### Data Validation
 
 - [Pydantic](https://github.com/pydantic/pydantic)
 
-##### Document Generator
+#### Document Generator
 
 - [Sphinx](https://github.com/sphinx-doc/sphinx)
 - [Mkdocs](https://www.mkdocs.org/)
 
-##### Doc-string Generator
+#### Doc-string Generator
 
 - [autoDocstring in VSCode](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring)
 
-##### Test and Coverage Tools
+#### Test and Coverage Tools
 
 - [Pytest](https://github.com/pytest-dev/pytest)
 - [tox](https://github.com/tox-dev/tox)
 - [nox](https://github.com/wntrblm/nox)
 - [Lettuce](https://github.com/gabrielfalcao/lettuce)
 
-##### Software Version Manager
+#### Software Version Manager
 
 - [semantic-release](https://github.com/semantic-release/semantic-release/)
 - [bump-my-version](https://github.com/callowayproject/bump-my-version)
 - [bump2version](https://github.com/c4urself/bump2version)
 - [python-semantic-release](https://github.com/python-semantic-release/python-semantic-release)
 
-##### Changelog Generator
+#### Changelog Generator
 
 - [git-cliff](https://github.com/orhun/git-cliff)
 - [conventional-changelog](https://github.com/conventional-changelog/conventional-changelog)
 
-### Operating System
+## Operating System
 
 - [Linux](https://www.kernel.org/) - Most popular unix-based open-source operating system that is widely used for servers and embedded systems.
 - [Windows](https://www.microsoft.com/en-us/windows) - A series of operating systems developed by Microsoft.
 - [macOS](https://www.apple.com/macos) - A series of unix-based operating systems developed by Apple Inc.
 
-### Networking
+## Networking
 
-### Basic Authentication and Authorization
+## Basic Authentication and Authorization
 
-### Web Frameworks and API Development
+## Web Frameworks and API Development
 
-### Cache
+## Cache
 
-### Testing
+## Testing
 
-### Version Control System
+## Version Control System
 
 - [Git](https://git-scm.com/) - A distributed version control system that is widely used for source code management.
 - [Mercurial](https://www.mercurial-scm.org/) - A distributed version control system that is easy to learn.
 
-### Version Control Hosting
+## Version Control Hosting
 
 - [GitHub](https://github.com) - A web-based platform for git version control and collaboration.
 - [GitLab](https://gitlab.com) - A web-based platform for git and DevOps lifecycle tooling.
 - [Bitbucket](https://bitbucket.org) - A web-based platform for Git and Mercurial version control.
 
-### Databases
+## Databases
 
-#### Relational
+### Relational
 
 - [PostgreSQL](https://www.postgresql.org/) - An open-source and powerful relational database management system.
 - [MySQL](https://www.mysql.com/) - One of the most famous open-source relational database management systems.
@@ -153,9 +153,9 @@
 - [Oracle Database](https://www.oracle.com/database/) - A multi-model database management system produced and marketed by Oracle Corporation.
 - [Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server) - A relational database management system developed by Microsoft.
 
-#### NoSQL
+### NoSQL
 
-##### Columnar
+#### Columnar
 
 - [Cassandra](https://cassandra.apache.org/) - A distributed NoSQL database management system designed to handle large amounts of data across many commodity servers.
 - [HBase](https://hbase.apache.org/) - An open-source, distributed, versioned, non-relational database modeled after Google's Bigtable.
@@ -163,7 +163,7 @@
 - [Apache Druid](https://druid.apache.org/) - A high-performance, column-oriented, distributed data store that is optimized for OLAP queries on event data.
 - [Pinot](https://pinot.apache.org/) - A real-time distributed OLAP datastore that is designed for high-performance and low-latency.
 
-##### Document Based
+#### Document Based
 
 - [MongoDB](https://www.mongodb.com/) - A cross-platform document-oriented database program.
 - [Couchbase](https://www.couchbase.com/) - An open-source, distributed, multi-model NoSQL document-oriented database.
@@ -173,7 +173,7 @@
 - [RavenDB](https://github.com/ravendb/ravendb) - A NoSQL document database that is fully transactional (ACID) across your database.
 - [Elasticsearch](https://www.elastic.co/elasticsearch/) - A distributed, RESTful search and analytics engine that is based on Apache Lucene.
 
-##### Key-Value
+#### Key-Value
 
 - [Redis](https://redis.io/) - An open-source, in-memory data structure store that can be used as a database, cache, and message broker.
 - [KeyDB](https://keydb.dev/) - A high-performance fork of Redis with multithreading support.
@@ -183,7 +183,7 @@
 - [Valkey](https://github.com/valkey-io/valkey) - A distributed key-value store that is designed for high availability and scalability, forked from Redis.
 - [Dragonfly](https://github.com/dragonflydb/dragonfly) - An in-memory data store built for modern application workloads and fully compatible with Redis and Memcached APIs.
 
-##### Time-series
+#### Time-series
 
 - [InfluxDB](https://github.com/influxdata/influxdb) - An open-source time-series database that is optimized for fast, high-availability storage and retrieval of time series data in fields such as operations monitoring, application metrics, Internet of Things sensor data, and real-time analytics.
 - [Prometheus](https://github.com/prometheus/prometheus) - An open-source monitoring and alerting toolkit based on a time-series database.
@@ -194,14 +194,14 @@
 - [KairosDB](https://github.com/kairosdb/kairosdb) - A distributed time-series database that is built on top of Cassandra.
 - [M3DB](https://github.com/m3db/m3) - A distributed time-series database that is designed for high availability and scalability.
 
-##### Vector
+#### Vector
 
 - [Milvus](https://github.com/milvus-io/milvus) - A high-performance, cloud-native vector database built for scalable vector ANN search
 - [Qdrant](https://github.com/qdrant/qdrant) - A vector search engine that is designed for similarity search and clustering.
 - [Weaviate](https://github.com/weaviate/weaviate) - An open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database.
 - [pgvector](https://github.com/pgvector/pgvector) - A PostgreSQL extension that provides vector search capabilities.
 
-##### Graph
+#### Graph
 
 - [ArangoDB](https://www.arangodb.com/) - An open-source, distributed multi-model database that supports key/value, document, and graph data models.
 - [Neo4j](https://neo4j.com/) - An open-source graph database that is optimized for storing and querying graphs.
@@ -209,36 +209,36 @@
 - [OrientDB](https://orientdb.com/) - An open-source, distributed graph database that is optimized for storing and querying graphs.
 - [Dgraph](https://dgraph.io/) - A horizontally scalable and distributed GraphQL database with a graph backend which provides ACID transactions, consistent replication, and linearizable reads.
 
-##### NewSQL
+#### NewSQL
 
 - [CockroachDB](https://www.cockroachlabs.com/) - An open-source, distributed SQL database that is ACID compliant and horizontally scalable.
 - [TiDB](https://pingcap.com/) - An open-source, distributed SQL database that supports Hybrid Transactional and Analytical Processing (HTAP).
 
-### Data Integration
+## Data Integration
 
-#### ETL
+### ETL
 
-#### ELT
+### ELT
 
-#### Reverse ETL
+### Reverse ETL
 
-#### CDC
+### CDC
 
-### Storage
+## Storage
 
-#### Block Storage
+### Block Storage
 
 - [Longhorn](https://longhorn.io/) - A distributed block storage system for Kubernetes.
 - [Ceph](https://ceph.io/) - A distributed object, block, and file storage platform.
 - [OpenEBS](https://openebs.io/) - A Kubernetes-native storage solution.
 
-#### Object Storage
+### Object Storage
 
 - [MinIO](https://min.io/) - A high-performance object storage server compatible with Amazon S3 APIs.
 - [Ceph](https://ceph.io/) - A distributed object, block, and file storage platform.
 - [Swift](https://github.com/openstack/swift) - A highly available, distributed, and scalable object storage system.
 
-### Query Engine
+## Query Engine
 
 - [Presto](https://prestodb.io/) - An open-source distributed SQL query engine for running interactive analytic queries against data sources of all sizes.
 - [Spark SQL](https://spark.apache.org/sql/) - A module for working with structured data in Spark.]
@@ -247,29 +247,29 @@
 - [Apache Drill](https://drill.apache.org/) - An open-source, low-latency SQL query engine for big data exploration.
 - [Apache Calcite](https://calcite.apache.org/) - A dynamic data management framework that provides tools to build SQL engines.
 
-### Data Processing
+## Data Processing
 
-#### Batch
+### Batch
 
-#### Hybrid
+### Hybrid
 
-#### Stream
+### Stream
 
-### Pipeline Orchestration
+## Pipeline Orchestration
 
-### Messaging and Streaming Platform
+## Messaging and Streaming Platform
 
-### Data Governance
+## Data Governance
 
-#### Data Quality
+### Data Quality
 
-#### Data Security
+### Data Security
 
-#### Data Lineage
+### Data Lineage
 
-#### Data Visualization
+### Data Visualization
 
-### Containerization
+## Containerization
 
 - [Docker](https://www.docker.com/) - Most popular containerization platform that enables packaging the application and its dependencies into a container.
 - [Podman](https://podman.io/) - A daemonless container engine for developing, managing, and running OCI containers.
@@ -279,7 +279,7 @@
 - [LXC](https://linuxcontainers.org/lxc/) - A userspace interface for the Linux kernel containment features.
 - [Buildah](https://buildah.io/) - A tool that facilitates building OCI images.
 
-### Container Orchestration
+## Container Orchestration
 
 - [Kubernetes](https://kubernetes.io/) - An open-source container orchestration platform that automates the deployment, scaling, and management of containerized applications.
 - [Docker Swarm](https://docs.docker.com/engine/swarm/) - A native clustering and scheduling tool for Docker containers.
@@ -288,7 +288,7 @@
 - [Mesos](http://mesos.apache.org/) - A distributed systems kernel that abstracts CPU, memory, storage, and other compute resources away from machines.
 - [K3s](https://k3s.io/) - A lightweight Kubernetes distribution that is optimized for edge computing.
 
-### CICD
+## CICD
 
 - [Jenkins](https://www.jenkins.io/) - An open-source automation server that enables developers around the world to reliably build, test, and deploy their software.
 - [GitLab CI/CD](https://docs.gitlab.com/ee/ci/) - A continuous integration and continuous deployment tool built into GitLab.
@@ -299,23 +299,23 @@
 - [Drone](https://www.drone.io/) - A continuous integration and continuous delivery platform built on container technology.
 - [GoCD](https://www.gocd.org/) - An open-source continuous delivery server that helps you automate and streamline the build-test-release cycle for worry-free, continuous delivery of your product.
 
-### Infrastructure as Code
+## Infrastructure as Code
 
-#### Configuration Management
+### Configuration Management
 
 - [Ansible](https://www.ansible.com/) - A simple IT automation tool that automates configuration management, application deployment, intra-service orchestration, and many other IT needs.
 - [Puppet](https://puppet.com/) - An open-source configuration management tool that automates the configuration and management of servers.
 - [Chef](https://www.chef.io/) - A configuration management tool that automates the building, deployment, and management of infrastructure.
 - [SaltStack](https://www.saltstack.com/) - A Python-based open-source configuration management and remote execution tool.
 
-#### Infrastructure Provisioning
+### Infrastructure Provisioning
 
 - [Terraform](https://www.terraform.io/) - An open-source infrastructure as code software tool that provides a consistent CLI workflow to manage hundreds of cloud services.
 - [Pulumi](https://www.pulumi.com/) - An open-source infrastructure as code software tool that allows you to define infrastructure using familiar languages.
 
-### Observability
+## Observability
 
-#### Logging
+### Logging
 
 - [Fluentd](https://www.fluentd.org/) - An open-source data collector for unified logging layer.
 - [Fluent Bit](https://fluentbit.io/) - A fast and lightweight log processor and forwarder for Linux, Windows, and OSX.
@@ -323,7 +323,7 @@
 - [Filebeat](https://www.elastic.co/beats/filebeat) - A lightweight shipper for forwarding and centralizing log data.
 - [Logrotate](https://github.com/logrotate/logrotate) - A simple utility for managing log files.
 
-#### Monitoring
+### Monitoring
 
 - [VictoriaMetrics](https://victoriametrics.com/) - A fast, cost-effective, and scalable time-series database that is compatible with Prometheus.
 - [Prometheus](https://prometheus.io/) - An open-source monitoring and alerting toolkit based on a time-series database.
@@ -334,7 +334,7 @@
 - [Nagios](https://www.nagios.org/) - An open-source computer system monitoring, network monitoring, and infrastructure monitoring software application.
 - [Icinga](https://icinga.com/) - An open-source monitoring software tool that monitors availability and performance, gives you simple access to relevant data, and raises alerts to keep you in the loop.
 
-#### Tracing
+### Tracing
 
 - [Jaeger](https://www.jaegertracing.io/) - An open-source end-to-end distributed tracing system.
 - [Zipkin](https://zipkin.io/) - An open-source distributed tracing system.
