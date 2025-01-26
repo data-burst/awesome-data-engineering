@@ -170,7 +170,15 @@
 
 #### Block Storage
 
+- [Longhorn](https://longhorn.io/) - A distributed block storage system for Kubernetes.
+- [Ceph](https://ceph.io/) - A distributed object, block, and file storage platform.
+- [OpenEBS](https://openebs.io/) - A Kubernetes-native storage solution.
+
 #### Object Storage
+
+- [MinIO](https://min.io/) - A high-performance object storage server compatible with Amazon S3 APIs.
+- [Ceph](https://ceph.io/) - A distributed object, block, and file storage platform.
+- [Swift](https://github.com/openstack/swift) - A highly available, distributed, and scalable object storage system.
 
 ### Query Engine
 
