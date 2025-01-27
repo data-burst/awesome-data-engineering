@@ -31,3 +31,5 @@
   - [Bigtable: A Distributed Storage System for Structured Data](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
 - 🏆 2004:
   - [MapReduce: Simplified Data Processing on Large Clusters](https://research.google/pubs/pub62/)
+- 🏆 2003:
+  - [The Google File System](https://research.google/pubs/the-google-file-system/)
