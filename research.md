@@ -38,4 +38,17 @@
 
 ## Conferences
 
+- [SIGMOD](https://sigmod.org/)
+- [VLDB](http://www.vldb.org/)
+- [ICDE](https://ieee-icde.org/)
+- [KDD](https://www.kdd.org/)
+- [Big Data](https://www.bigdataieee.org/)
+- [EDBT](https://edbt.org/)
+
 ## Journals
+
+- [VLDB Journal](https://www.springer.com/journal/778)
+- [IEEE Transactions on Knowledge and Data Engineering](https://www.computer.org/csdl/journal/tk)
+- [ACM Transactions on Database Systems](https://dl.acm.org/journal/tods)
+- [Journal of Big Data](https://journalofbigdata.springeropen.com/)
+- [Journal of Data Mining and Knowledge Discovery](https://www.springer.com/journal/10618)
