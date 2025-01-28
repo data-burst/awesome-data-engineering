@@ -1,5 +1,8 @@
 # Data Engineering Tools
 
+This page lists important tools and software that are commonly used in the field of data engineering. These tools help data engineers to build, maintain, and optimize data pipelines, databases, and analytics systems.
+You can use it as a reference to explore and learn about the tools that are widely used in the industry and to find the right tools for your data engineering projects.
+
 ## Table of Contents
 
 - [Programming Languages](#programming-languages)
