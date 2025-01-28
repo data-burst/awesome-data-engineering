@@ -4,15 +4,7 @@
 
 - [Programming Languages](#programming-languages)
   - [Python](#python)
-    - [Python version and package manager](#python-version-and-package-manager)
-    - [Type Checker](#type-checker)
-    - [Linter and Code Formatter](#linter-and-code-formatter)
-    - [Data Validation](#data-validation)
-    - [Document Generator](#document-generator)
-    - [Doc-string Generator](#doc-string-generator)
-    - [Test and Coverage Tools](#test-and-coverage-tools)
-    - [Software Version Manager](#software-version-manager)
-    - [Changelog Generator](#changelog-generator)
+  - [Java](#java)
 - [Operating System](#operating-system)
 - [Networking](#networking)
 - [Basic Authentication and Authorization](#basic-authentication-and-authorization)
@@ -66,7 +58,7 @@
 
 ### Python
 
-#### Python version and package manager
+#### Package manager
 
 - [UV](https://github.com/astral-sh/uv) (recommended) - A fast and extensible Python version manager.
 - [Poetry](https://github.com/python-poetry/poetry) - A tool for dependency management and packaging in Python.
@@ -101,7 +93,7 @@
 - [nox](https://github.com/wntrblm/nox) - A flexible test automation tool that allows you to run tests in different environments.
 - [Lettuce](https://github.com/gabrielfalcao/lettuce) - A BDD tool that allows you to write tests in plain English.
 
-#### Software Version Manager
+#### Version Manager
 
 - [semantic-release](https://github.com/semantic-release/semantic-release/) - Fully automated version management and package publishing.
 - [bump-my-version](https://github.com/callowayproject/bump-my-version) - A simple CLI tool to bump the version of your project.
@@ -113,14 +105,29 @@
 - [git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications.
 - [conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - A tool that generates a changelog from git metadata.
 
+### Java
+
+#### Package Manager
+
+- [Maven](https://github.com/apache/maven) - A build automation tool used primarily for Java projects.
+- [Gradle](https://github.com/gradle/gradle) - A build automation tool that is used for multi-language development.
+
+#### Document Generator
+
+- [Javadoc](https://www.oracle.com/java/technologies/javase/javadoc-tool.html) - A tool that generates API documentation in HTML format from doc comments in source code.
+
+#### Test and Coverage Tools
+
+- [JUnit](https://github.com/junit-team/junit5) - A simple framework to write repeatable tests in Java.
+
 ## Operating System
 
 - [Linux](https://github.com/torvalds/linux) - Most popular unix-based open-source operating system that is widely used for servers and embedded systems.
-    - [Ubuntu](https://ubuntu.com/) - A Debian-based Linux operating system that is widely used for personal computers, servers, and cloud computing.
-    - [Debian](https://www.debian.org/) - A Unix-like operating system that is composed entirely of free software.
-    - [CentOS](https://www.centos.org/) - A Linux distribution that provides a free, community-supported computing platform.
-    - [Fedora](https://getfedora.org/) - A Linux distribution that is sponsored by Red Hat.
-    - [Arch Linux](https://www.archlinux.org/) - A lightweight and flexible Linux distribution that targets experienced users.
+  - [Ubuntu](https://ubuntu.com/) - A Debian-based Linux operating system that is widely used for personal computers, servers, and cloud computing.
+  - [Debian](https://www.debian.org/) - A Unix-like operating system that is composed entirely of free software.
+  - [CentOS](https://www.centos.org/) - A Linux distribution that provides a free, community-supported computing platform.
+  - [Fedora](https://getfedora.org/) - A Linux distribution that is sponsored by Red Hat.
+  - [Arch Linux](https://www.archlinux.org/) - A lightweight and flexible Linux distribution that targets experienced users.
 - [Windows](https://www.microsoft.com/en-us/windows) - A series of operating systems developed by Microsoft.
 - [macOS](https://www.apple.com/macos) - A series of unix-based operating systems developed by Apple Inc.
 
