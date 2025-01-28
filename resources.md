@@ -1,5 +1,7 @@
 # Data Engineering Resources
 
+This page lists important resources for learning data engineering, including books, tutorials, courses, and more. These resources cover a wide range of topics, from data processing and storage to distributed systems and data architecture.
+
 ## Books
 
 - [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) (Martin Kleppmann) - Comprehensive guide to designing large-scale data systems, covering fundamentals of data processing, storage, and distributed systems.
