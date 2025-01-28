@@ -28,5 +28,5 @@ This file lists forums, social media groups, and professional organizations wher
 
 # Research Papers <a name="research-papers"></a>
 
-For a selection of important research papers based on the release year in data engineering,
+For a selection of important research papers and conferences in the field of data engineering,
 please refer to the [papers.md](./papers.md) file.
