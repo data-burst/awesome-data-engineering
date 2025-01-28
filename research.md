@@ -1,5 +1,8 @@
 # Data Engineering Research
 
+This page lists important research papers and conferences in the field of data engineering. These resources provide insights into the latest trends, technologies, and best practices in the industry.
+We have also included links to relevant journals and conferences where you can find more research articles and publications.
+
 ## Papers
 
 - 🏆 2024:
