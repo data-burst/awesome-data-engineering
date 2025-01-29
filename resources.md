@@ -12,8 +12,6 @@ This page lists important resources for learning data engineering, including boo
 - [Data Management at Scale: Modern Data Architecture with Data Mesh and Data Fabric](https://www.amazon.ca/Data-Management-Scale-Modern-Architecture/dp/1098138864/ref=asc_df_1098138864/?tag=googleshopc0c-20&linkCode=df0&hvadid=706745562943&hvpos=&hvnetw=g&hvrand=17582599001257873810&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9197976&hvtargid=pla-1938067031900&psc=1&mcid=58d8a6acd62a351ba738e9315b569831&gad_source=1) (Piethein Strengholt) - A practical guide to building modern data architectures using data mesh and data fabric patterns.
 - [Data Pipelines Pocket Reference: Moving and Processing Data for Analytics](https://www.amazon.ca/Data-Pipelines-Pocket-Reference-Processing/dp/1492087831/ref=asc_df_1492087831/?tag=googleshopc0c-20&linkCode=df0&hvadid=706840526768&hvpos=&hvnetw=g&hvrand=13096171843272468600&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9197976&hvtargid=pla-1159839384649&psc=1&mcid=4fc8c773f3cc3edabd7b05bfa9c3c2c3&gad_source=1) (James Densmore) - A concise guide to building data pipelines for analytics and data processing.
 
-## Tutorials
-
 ## Courses
 
 - [Data Engineering Course for Beginners](https://www.youtube.com/watch?v=PHsC_t0j1dU) - Learn the essentials of data engineering in this course for beginners.
@@ -23,4 +21,7 @@ This page lists important resources for learning data engineering, including boo
 - [Data Engineering on AWS - Foundations](https://www.coursera.org/learn/data-engineering-on-aws-foundations) - AWS course on data engineering, focusing on building data pipelines and processing data on AWS.
 - [Training for Data Engineers | Azure](https://learn.microsoft.com/en-us/training/career-paths/data-engineer) - Microsoft Azure's training program for data engineers, covering data processing, storage, and analytics on Azure.
 
-## Blogs
+## Miscellaneous
+
+- [Data Engineering Tutorial | Tutorialspoint](https://www.tutorialspoint.com/data-engineering/index.htm) - Tutorial on data engineering concepts, tools, and techniques.
+- [Big Book of Data Engineering | Databricks](https://www.databricks.com/resources/ebook/big-book-of-data-engineering?scid=7018Y000001Fi1mQAC&utm_medium=paid+search&utm_source=google&utm_campaign=15029794441&utm_adgroup=129955220083&utm_content=ebook&utm_offer=big-book-of-data-engineering&utm_ad=708754183354&utm_term=what%20is%20data%20engineering&gad_source=1&gclid=Cj0KCQiAwOe8BhCCARIsAGKeD57kN0G_1qSBkJApI019RaXAe7Ch5X8tSIBNix3WnOBoAzCO3WCG79caAo3VEALw_wcB) - Ebook on data engineering best practices, tools, and technologies.
