@@ -43,8 +43,9 @@ We have also included links to relevant journals and conferences where you can f
 
 - [SIGMOD](https://sigmod.org/)
 - [VLDB](http://www.vldb.org/)
+- [CIDR](http://cidrdb.org/)
 - [ICDE](https://ieee-icde.org/)
-- [KDD](https://www.kdd.org/)
+- [SIGKDD](https://www.kdd.org/)
 - [Big Data](https://www.bigdataieee.org/)
 - [EDBT](https://edbt.org/)
 
