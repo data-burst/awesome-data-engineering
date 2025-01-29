@@ -45,13 +45,13 @@ We have also included links to relevant journals and conferences where you can f
 
 ## Conferences
 
-- [SIGMOD](https://sigmod.org/)
-- [VLDB](http://www.vldb.org/)
-- [CIDR](http://cidrdb.org/)
-- [ICDE](https://ieee-icde.org/)
-- [SIGKDD](https://www.kdd.org/)
-- [Big Data](https://www.bigdataieee.org/)
-- [EDBT](https://edbt.org/)
+- [SIGMOD](https://sigmod.org/): ACM Special Interest Group on Management of Data
+- [VLDB](http://www.vldb.org/): Very Large Data Bases Endowment Inc. 
+- [CIDR](http://cidrdb.org/): Conference on Innovative Data Systems Research 
+- [ICDE](https://ieee-icde.org/): IEEE International Conference on Data Engineering
+- [SIGKDD](https://www.kdd.org/): ACM Special Interest Group on Knowledge Discovery and Data Mining
+- [Big Data](https://www.bigdataieee.org/): IEEE International Conference on Big Data
+- [EDBT](https://edbt.org/): International Conference on Extending Database Technology
 
 ## Journals
 
