@@ -24,6 +24,7 @@ We have also included links to relevant journals and conferences where you can f
   - [The Snowflake Elastic Data Warehouse](https://dl.acm.org/doi/pdf/10.1145/2882903.2903741)
 - 🏆 2015:
   - [The dataflow model: a practical approach to balancing correctness, latency, and cost in massive-scale, unbounded, out-of-order data processing](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43864.pdf)
+  - [Amazon Redshift and the Case for Simpler Data Warehouses](https://www.amazon.science/publications/amazon-redshift-and-the-case-for-simpler-data-warehouses)
 - 🏆 2012:
   - [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](https://www.usenix.org/system/files/conference/nsdi12/nsdi12-final138.pdf)
   - [Spanner: Google’s Globally-Distributed Database](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/39932.pdf)
