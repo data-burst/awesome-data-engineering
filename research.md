@@ -18,6 +18,8 @@ We have also included links to relevant journals and conferences where you can f
   - [Delta Lake: High-Performance ACID Table Storage over Cloud Object Stores](https://vldb.org/pvldb/vol13/p3411-armbrust.pdf)
 - 🏆 2019:
   - [Procella: unifying serving and analytical data at YouTube](https://research.google/pubs/procella-unifying-serving-and-analytical-data-at-youtube/)
+- 🏆 2017:
+  - [Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases](https://www.amazon.science/publications/amazon-aurora-design-considerations-for-high-throughput-cloud-native-relational-databases)
 - 🏆 2016:
   - [The Snowflake Elastic Data Warehouse](https://dl.acm.org/doi/pdf/10.1145/2882903.2903741)
 - 🏆 2015:
