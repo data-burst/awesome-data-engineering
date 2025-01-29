@@ -16,4 +16,11 @@ This page lists important resources for learning data engineering, including boo
 
 ## Courses
 
+- [Data Engineering Course for Beginners](https://www.youtube.com/watch?v=PHsC_t0j1dU) - Learn the essentials of data engineering in this course for beginners.
+- [Big Data Engineering Full Course](https://www.youtube.com/watch?v=Tyg1FVNq40g) - Course on big data engineering, covering data processing, storage, and analytics.
+- [Data Engineer Full Course | Edureka](https://www.youtube.com/watch?v=o4rF4hSf9D8) - Course on data engineering, including data architecture, ETL, and data modeling.
+- [IBM Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer) - IBM's professional certificate program on data engineering, covering data processing, storage, and analytics.
+- [Data Engineering on AWS - Foundations](https://www.coursera.org/learn/data-engineering-on-aws-foundations) - AWS course on data engineering, focusing on building data pipelines and processing data on AWS.
+- [Training for Data Engineers | Azure](https://learn.microsoft.com/en-us/training/career-paths/data-engineer) - Microsoft Azure's training program for data engineers, covering data processing, storage, and analytics on Azure.
+
 ## Blogs
