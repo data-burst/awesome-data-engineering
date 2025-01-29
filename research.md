@@ -10,6 +10,8 @@ We have also included links to relevant journals and conferences where you can f
   - [BigLake: BigQuery's Evolution toward a Multi-Cloud Lakehouse](https://dl.acm.org/doi/pdf/10.1145/3626246.3653388)
 - 🏆 2023:
   - [Presto: A Decade of SQL Analytics at Meta](https://research.facebook.com/file/965459034890003/Presto--A-Decade-of-SQL-Analytics-at-Meta.pdf)
+- 🏆 2022:
+  - [Velox: meta's unified execution engine](https://vldb.org/pvldb/vol15/p3372-pedreira.pdf)
 - 🏆 2021:
   - [Citus: Distributed PostgreSQL for Data-Intensive Applications](https://dl.acm.org/doi/pdf/10.1145/3448016.3457551)
   - [Milvus: A Purpose-Built Vector Data Management System](https://dl.acm.org/doi/pdf/10.1145/3448016.3457550)
@@ -48,8 +50,8 @@ We have also included links to relevant journals and conferences where you can f
 ## Conferences
 
 - [SIGMOD](https://sigmod.org/): ACM Special Interest Group on Management of Data
-- [VLDB](http://www.vldb.org/): Very Large Data Bases Endowment Inc. 
-- [CIDR](http://cidrdb.org/): Conference on Innovative Data Systems Research 
+- [VLDB](http://www.vldb.org/): Very Large Data Bases Endowment Inc.
+- [CIDR](http://cidrdb.org/): Conference on Innovative Data Systems Research
 - [ICDE](https://ieee-icde.org/): IEEE International Conference on Data Engineering
 - [SIGKDD](https://www.kdd.org/): ACM Special Interest Group on Knowledge Discovery and Data Mining
 - [Big Data](https://www.bigdataieee.org/): IEEE International Conference on Big Data
