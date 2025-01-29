@@ -7,6 +7,7 @@ We have also included links to relevant journals and conferences where you can f
 
 - 🏆 2024:
   - [ClickHouse - Lightning Fast Analytics for Everyone](https://www.vldb.org/pvldb/vol17/p3731-schulze.pdf)
+  - [BigLake: BigQuery's Evolution toward a Multi-Cloud Lakehouse](https://dl.acm.org/doi/pdf/10.1145/3626246.3653388)
 - 🏆 2023:
   - [Presto: A Decade of SQL Analytics at Meta](https://research.facebook.com/file/965459034890003/Presto--A-Decade-of-SQL-Analytics-at-Meta.pdf)
 - 🏆 2021:
