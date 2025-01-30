@@ -1,7 +1,7 @@
 # Data Engineering Communities <a name="communities"></a>
 
 
-## 🚀 **Databurst Communities** (Our Official Spaces!) 🚀
+## 🚀 **Databurst** (Our Official Spaces!) 🚀
 ### Discord
 - [DataBurst Discord Server](https://discord.gg/Jj7NNsaD)
 
