@@ -28,6 +28,7 @@ You can use it as a reference to explore and learn about the tools that are wide
   - [Block Storage](#block-storage)
   - [Object Storage](#object-storage)
 - [Query Engine](#query-engine)
+- [In Memory Analytical Databases](#in-memory-analytical-databases)
 - [Data Processing](#data-processing)
   - [Batch](#batch)
   - [Hybrid](#hybrid)
@@ -337,6 +338,9 @@ You can use it as a reference to explore and learn about the tools that are wide
 - [Velox](https://github.com/facebookincubator/velox) - A high-performance, distributed, in-memory data engine for analytics.
 - [Apache Drill](https://github.com/apache/drill) - An open-source, low-latency SQL query engine for big data exploration.
 - [Apache Calcite](https://github.com/apache/calcite) - A dynamic data management framework that provides tools to build SQL engines.
+
+## In Memory Analytical Databases
+
 - [GlareDB](https://github.com/GlareDB/glaredb) - A SQL query engine optimized for working with distributed data across multiple sources.
 - [chDB](https://github.com/chdb-io/chdb) - An embeddable ClickHouse-based analytical database for fast SQL queries.
 - [Apache DataFusion](https://github.com/apache/arrow-datafusion) - A high-performance, extensible query engine built on Apache Arrow.
