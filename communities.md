@@ -29,6 +29,7 @@
 - [Data Engineering Q&A](https://t.me/DataEngineeringQA)
 - [politoDSE](https://t.me/politoDSE)
 - [bigdataenginee](https://t.me/bigdataenginee)
+- [All About Data](https://t.me/data_engineer1)
 
 ## Farsi Communities 🇮🇷
 
